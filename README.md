@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://portfolio-ajaykumar.vercel.app/#services](https://portfolio-ajaykumar.vercel.app/#services)
 
-- 📫 How to reach me **jmax.pk32@gmail.com**
+- 📫 How to reach me **pillalaajaykumar3@gmail.com**
 
 - ⚡ Fun fact **Only Good Coding**
 
